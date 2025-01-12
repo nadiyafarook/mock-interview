@@ -1,0 +1,45 @@
+/* General body styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    text-align: center;
+}
+
+/* Header styles */
+h1 {
+    color: #238220;
+    margin-top:40px;
+}
+
+/* Form and buttons */
+form {
+    margin-top: 50px;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+    font-size: 20px;
+}
+
+button:hover {
+    background-color: #45a049;
+}
+
+/* Video section */
+#video {
+    margin-top: 20px;
+    border: 2px solid #ccc;
+}
+
+/* Footer styles (optional) */
+footer {
+    margin-top: 30px;
+    font-size: 14px;
+    color: #777;
+}
